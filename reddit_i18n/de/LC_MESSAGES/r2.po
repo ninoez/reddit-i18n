@@ -70,7 +70,7 @@ msgstr "Dein Passwort wurde aktualisiert"
 
 #: r2/controllers/api.py:888
 msgid "replied"
-msgstr ""
+msgstr "geantwortet"
 
 #: r2/controllers/api.py:949
 msgid "shared"
@@ -92,7 +92,7 @@ msgstr "Gelöscht"
 
 #: r2/controllers/api.py:1195 r2/templates/subredditstylesheet.html:196
 msgid "bad image name"
-msgstr ""
+msgstr "schlechter Bildname"
 
 #: r2/controllers/api.py:1199
 #, python-format
@@ -101,31 +101,31 @@ msgstr "zu viele Bilder (Sie bekommen nur %d)"
 
 #: r2/controllers/api.py:1207
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "Ungültiges Bild oder Bildfehler"
 
 #: r2/controllers/api.py:1637
 msgid "claimed! now go to someone's userpage and give them a present!"
-msgstr ""
+msgstr "Beansprucht! Gehe nun zu einer Userpage und vergib ein Geschenk"
 
 #: r2/controllers/api.py:1642
 msgid "claimed!"
-msgstr ""
+msgstr "Beansprucht!"
 
 #: r2/controllers/api.py:1658
 msgid "an email will be sent to that account's address shortly"
-msgstr ""
+msgstr "Eine Email wird schon bald an die Emailadresse dieses Accounts gesendet"
 
 #: r2/controllers/api.py:1660
 msgid "try again tomorrow"
-msgstr ""
+msgstr "Versuch's morgen nochmal"
 
 #: r2/controllers/api.py:1905 r2/controllers/api.py:2066
 msgid "invalid css class"
-msgstr ""
+msgstr "Ungültige CSS-Klasse"
 
 #: r2/controllers/api.py:1908 r2/controllers/api.py:2069
 msgid "too many css classes"
-msgstr ""
+msgstr "Zuviele CSS-Klassen"
 
 #: r2/controllers/api.py:2085
 msgid "max flair templates reached"
@@ -512,11 +512,11 @@ msgstr "E-Mail-Adresse verifizieren"
 
 #: r2/controllers/front.py:864 r2/templates/loginformwide.html:51
 msgid "reset password"
-msgstr "Nachstellen Passwort "
+msgstr "Passwort wiederherstellen"
 
 #: r2/controllers/front.py:1012 r2/controllers/post.py:161
 msgid "opt out"
-msgstr ""
+msgstr "Aussteigen"
 
 #: r2/controllers/front.py:1012 r2/controllers/post.py:171
 msgid "welcome back"
@@ -524,41 +524,41 @@ msgstr "Willkommen zurück"
 
 #: r2/controllers/front.py:1042
 msgid "thanks"
-msgstr ""
+msgstr "Danke!"
 
 #: r2/controllers/front.py:1075 r2/controllers/front.py:1097
 #: r2/lib/menus.py:101 r2/templates/gold.html:83
 msgid "reddit gold"
-msgstr ""
+msgstr "Reddit Gold"
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
-msgstr ""
+msgstr "Netter Versuch"
 
 #: r2/controllers/ipn.py:276
 msgid "the gold has been delivered!"
-msgstr ""
+msgstr "Das Gold wurde ausgeliefert!"
 
 #: r2/controllers/ipn.py:449
 msgid "thanks for buying reddit gold!"
-msgstr ""
+msgstr "Danke, dass du Reddit Gold gekauft hast"
 
 #: r2/controllers/ipn.py:459 r2/templates/thanks.html:32
 msgid "thanks for buying creddits!"
-msgstr ""
+msgstr "Danke, dass du Creddits gekauft hast!"
 
 #: r2/controllers/ipn.py:460
 msgid "To spend them, visit [/gold](/gold) or your favorite person's userpage."
-msgstr ""
+msgstr "Um sie auszugeben, besuche [/gold] (/gold) oder die Userpage deiner bevorzugten Person"
 
 #: r2/controllers/ipn.py:473
 msgid "thanks for giving reddit gold!"
-msgstr ""
+msgstr "Danke, dass du Reddit Gold gegeben hast!"
 
 #: r2/controllers/ipn.py:474
 #, python-format
 msgid "Your gift to %s has been delivered."
-msgstr ""
+msgstr "Dein Geschenk an %s wurde ausgeliefert."
 
 #: r2/controllers/listingcontroller.py:348
 msgid "newest submissions"
@@ -579,37 +579,37 @@ msgstr "Dir ist gerade richtig langweilig, was?"
 #: r2/controllers/listingcontroller.py:502
 #, python-format
 msgid "overview for %(user)s"
-msgstr ""
+msgstr "Übersicht für %(user)s"
 
 #: r2/controllers/listingcontroller.py:503
 #, python-format
 msgid "comments by %(user)s"
-msgstr ""
+msgstr "Kommentare von %(user)s"
 
 #: r2/controllers/listingcontroller.py:504
 #, python-format
 msgid "submitted by %(user)s"
-msgstr ""
+msgstr "Eingereicht von %(user)s"
 
 #: r2/controllers/listingcontroller.py:505
 #, python-format
 msgid "liked by %(user)s"
-msgstr ""
+msgstr "gemocht von %(user)s"
 
 #: r2/controllers/listingcontroller.py:506
 #, python-format
 msgid "disliked by %(user)s"
-msgstr ""
+msgstr "abgelehnt von %(user)s"
 
 #: r2/controllers/listingcontroller.py:507
 #, python-format
 msgid "hidden by %(user)s"
-msgstr ""
+msgstr "versteckt von %(user)s"
 
 #: r2/controllers/listingcontroller.py:508
 #, python-format
 msgid "profile for %(user)s"
-msgstr "Profil für %(user)s"
+msgstr "Profil von %(user)s"
 
 #: r2/controllers/listingcontroller.py:621
 #: r2/controllers/listingcontroller.py:630 r2/lib/menus.py:485
@@ -620,15 +620,15 @@ msgstr "Alles"
 #: r2/controllers/listingcontroller.py:631
 #: r2/templates/printablebuttons.html:332
 msgid "unread"
-msgstr ""
+msgstr "ungelesen"
 
 #: r2/controllers/listingcontroller.py:624
 msgid "comment replies"
-msgstr ""
+msgstr "Kommentarantworten"
 
 #: r2/controllers/listingcontroller.py:625
 msgid "post replies"
-msgstr ""
+msgstr "Verfasse Antworten"
 
 #: r2/controllers/listingcontroller.py:638 r2/templates/redditheader.html:88
 msgid "messages"
@@ -644,15 +644,15 @@ msgstr "reddits:"
 
 #: r2/controllers/listingcontroller.py:871
 msgid "comments"
-msgstr ""
+msgstr "Kommentare"
 
 #: r2/controllers/oauth2.py:42
 msgid "My Identity"
-msgstr ""
+msgstr "Meine Identitäten"
 
 #: r2/controllers/oauth2.py:43
 msgid "Access my reddit username and signup date."
-msgstr ""
+msgstr "Rufe meinen reddit Benutzernamen und Anmeldedatum ab"
 
 #: r2/controllers/post.py:135
 msgid "over 18?"
@@ -660,11 +660,11 @@ msgstr "Älter als 18?"
 
 #: r2/controllers/promotecontroller.py:48
 msgid "promoted by you"
-msgstr ""
+msgstr "vorgeschlagen von Dir"
 
 #: r2/controllers/promotecontroller.py:443
 msgid "failed to authenticate card.  sorry."
-msgstr ""
+msgstr "Die Authentifizierung deiner Karte wurde abgelehnt, sorry."
 
 #: r2/controllers/promotecontroller.py:488
 msgid "bad image"
@@ -672,35 +672,35 @@ msgstr "schlechtes Bild"
 
 #: r2/controllers/reddit_base.py:870
 msgid "search failed"
-msgstr ""
+msgstr "Die Suche ist fehlgeschlagen"
 
 #: r2/controllers/validator/validator.py:1476
 msgid "please provide a first name"
-msgstr ""
+msgstr "Bitte gib einen Vornamen an"
 
 #: r2/controllers/validator/validator.py:1478
 msgid "please provide a last name"
-msgstr ""
+msgstr "Bitte gib einen Nachnamen an"
 
 #: r2/controllers/validator/validator.py:1480
 msgid "please provide an address"
-msgstr ""
+msgstr "Bitte gib eine Adresse an"
 
 #: r2/controllers/validator/validator.py:1482
 msgid "please provide your city"
-msgstr ""
+msgstr "Bitte gib eine gültige Stadt an"
 
 #: r2/controllers/validator/validator.py:1484
 msgid "please provide your state"
-msgstr ""
+msgstr "Bitte gib deinen Bundesstaat an"
 
 #: r2/controllers/validator/validator.py:1486
 msgid "please provide your zip or post code"
-msgstr ""
+msgstr "Bitte gib deine Postleitzahl an"
 
 #: r2/controllers/validator/validator.py:1488
 msgid "please pick a country"
-msgstr ""
+msgstr "Bitte wähle ein Land aus"
 
 #: r2/controllers/validator/validator.py:1492
 msgid "Our ToS don't cover your country (yet). Sorry."
@@ -708,23 +708,23 @@ msgstr ""
 
 #: r2/controllers/validator/validator.py:1511
 msgid "credit card numbers should be 13 to 16 digits"
-msgstr ""
+msgstr "Kreditkartennummern sollten mindestens 13 bis 16 Nummern lang sein"
 
 #: r2/controllers/validator/validator.py:1514
 msgid "dates should be YYYY-MM"
-msgstr ""
+msgstr "Daten sollten im Format YYYY-MM sein"
 
 #: r2/controllers/validator/validator.py:1516
 msgid "card verification codes should be 3 or 4 digits"
-msgstr ""
+msgstr "Verifikationsnummern sollten mindestens drei bis vier Nummern lang sein"
 
 #: r2/lib/cssfilter.py:307
 msgid "if you need backslashes, you're doing it wrong"
-msgstr ""
+msgstr "Wenn du Schrägstriche verwendest, machst Du's falsch"
 
 #: r2/lib/jsontemplates.py:302 r2/templates/usertext.html:55
 msgid "[removed]"
-msgstr ""
+msgstr "[gelöscht]"
 
 #: r2/lib/menus.py:46
 msgid "what's hot"
@@ -748,7 +748,7 @@ msgstr "Empfohlen"
 
 #: r2/lib/menus.py:52
 msgid "promote"
-msgstr ""
+msgstr "fördere"
 
 #: r2/lib/menus.py:56
 msgid "hot"
@@ -764,11 +764,11 @@ msgstr "Alt"
 
 #: r2/lib/menus.py:59
 msgid "ups"
-msgstr "Aufs"
+msgstr "Top"
 
 #: r2/lib/menus.py:60
 msgid "downs"
-msgstr "Abs"
+msgstr "Flop"
 
 #: r2/lib/menus.py:61 r2/templates/widgetdemopanel.html:173
 msgid "top"
@@ -788,7 +788,7 @@ msgstr "Kontrovers"
 
 #: r2/lib/menus.py:65
 msgid "best"
-msgstr ""
+msgstr "Am besten"
 
 #: r2/lib/menus.py:66
 msgid "saved {toolbar}"
@@ -848,7 +848,7 @@ msgstr "Einstellungen"
 
 #: r2/lib/menus.py:89
 msgid "blog"
-msgstr ""
+msgstr "Blog"
 
 #: r2/lib/menus.py:90 r2/templates/utils.html:424
 msgid "logout"
@@ -856,11 +856,11 @@ msgstr "Logout"
 
 #: r2/lib/menus.py:93
 msgid "contact us"
-msgstr ""
+msgstr "Kontaktiere uns"
 
 #: r2/lib/menus.py:94
 msgid "firefox extension"
-msgstr ""
+msgstr "Firefox-Erweiterung"
 
 #: r2/lib/menus.py:95
 msgid "buttons"
@@ -876,7 +876,7 @@ msgstr "Quelltext"
 
 #: r2/lib/menus.py:98
 msgid "mobile"
-msgstr ""
+msgstr "Handy"
 
 #: r2/lib/menus.py:99
 msgid "store"
@@ -884,11 +884,11 @@ msgstr "Store"
 
 #: r2/lib/menus.py:100
 msgid "advertise"
-msgstr ""
+msgstr "Werbe"
 
 #: r2/lib/menus.py:102
 msgid "subreddits"
-msgstr ""
+msgstr "Subreddits"
 
 #: r2/lib/menus.py:105 r2/templates/promotelinkform.html:317
 msgid "options"
@@ -896,7 +896,7 @@ msgstr "Optionen"
 
 #: r2/lib/menus.py:106
 msgid "RSS feeds"
-msgstr ""
+msgstr "RSS-Feeds"
 
 #: r2/lib/menus.py:107
 msgid "friends"
@@ -935,19 +935,19 @@ msgstr "Details"
 #: r2/lib/menus.py:120
 #, python-format
 msgid "other discussions (%(num)s)"
-msgstr ""
+msgstr "andere Diskussionen (%(num)s)"
 
 #: r2/lib/menus.py:121
 msgid "shirt"
-msgstr ""
+msgstr "Shirt"
 
 #: r2/lib/menus.py:122
 msgid "traffic stats"
-msgstr ""
+msgstr "Trafficdaten"
 
 #: r2/lib/menus.py:125
 msgid "home"
-msgstr ""
+msgstr "Start"
 
 #: r2/lib/menus.py:126 r2/lib/pages/pages.py:408
 msgid "about"
@@ -955,24 +955,24 @@ msgstr "Über"
 
 #: r2/lib/menus.py:127
 msgid "edit subscriptions"
-msgstr ""
+msgstr "bearbeite Deine Abonnemente"
 
 #: r2/lib/menus.py:128 r2/lib/pages/pages.py:1032
 #: r2/templates/createsubreddit.html:39
 msgid "community settings"
-msgstr ""
+msgstr "Community Einstellungen"
 
 #: r2/lib/menus.py:129
 msgid "edit moderators"
-msgstr ""
+msgstr "Bearbeite die Moderatoren"
 
 #: r2/lib/menus.py:130
 msgid "moderator mail"
-msgstr ""
+msgstr "Moderatorenmail"
 
 #: r2/lib/menus.py:131
 msgid "edit approved submitters"
-msgstr ""
+msgstr "bearbeite bestätigte Einreicher"
 
 #: r2/lib/menus.py:132 r2/lib/menus.py:133 r2/lib/pages/pages.py:2755
 msgid "ban users"
@@ -980,7 +980,7 @@ msgstr "Benutzer bannen"
 
 #: r2/lib/menus.py:134
 msgid "edit user flair"
-msgstr ""
+msgstr "bearbeite Dein Flair"
 
 #: r2/lib/menus.py:136
 msgid "popular"
@@ -997,19 +997,19 @@ msgstr "Meine reddits"
 
 #: r2/lib/menus.py:141 r2/templates/subredditstylesheet.html:87
 msgid "errors"
-msgstr ""
+msgstr "Fehler"
 
 #: r2/lib/menus.py:143
 msgid "ads"
-msgstr ""
+msgstr "Werbung"
 
 #: r2/lib/menus.py:144
 msgid "usage"
-msgstr ""
+msgstr "Nutzung"
 
 #: r2/lib/menus.py:145
 msgid "promoted"
-msgstr ""
+msgstr "gefördert"
 
 #: r2/lib/menus.py:146
 msgid "reporters"
@@ -1017,7 +1017,7 @@ msgstr "Berichterstatter"
 
 #: r2/lib/menus.py:147
 msgid "reported links"
-msgstr ""
+msgstr "gemeldete Links"
 
 #: r2/lib/menus.py:148
 msgid "reported authors"
