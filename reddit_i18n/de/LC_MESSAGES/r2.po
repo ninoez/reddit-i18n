@@ -228,23 +228,23 @@ msgstr "Das kannst du nicht tun"
 
 #: r2/controllers/errors.py:38
 msgid "you are not logged in as that user"
-msgstr ""
+msgstr "Du bist nicht als dieser Nutzer eingeloggt"
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
-msgstr ""
+msgstr "Der Link, den du kommentieren möchtest, wurde gelöscht"
 
 #: r2/controllers/errors.py:40
 msgid "that comment has been deleted"
-msgstr ""
+msgstr "Dieser Kommentar wurde gelöscht"
 
 #: r2/controllers/errors.py:41
 msgid "that element has been deleted"
-msgstr ""
+msgstr "Dieses Element wurde gelöscht"
 
 #: r2/controllers/errors.py:42
 msgid "that password is unacceptable"
-msgstr ""
+msgstr "Dieses Passwort ist nicht akzeptierbar"
 
 #: r2/controllers/errors.py:43
 msgid "invalid password"
@@ -451,27 +451,27 @@ msgstr ""
 
 #: r2/controllers/front.py:304
 msgid "no comments (yet)"
-msgstr ""
+msgstr "(bis jetzt) keine Kommentare"
 
 #: r2/controllers/front.py:306
 #, python-format
 msgid "all %d comments"
-msgstr ""
+msgstr "Alle %d Kommentare"
 
 #: r2/controllers/front.py:308
 #, python-format
 msgid "top %d comments"
-msgstr ""
+msgstr "Top %d Kommentare"
 
 #: r2/controllers/front.py:331
 #, python-format
 msgid "show all %d"
-msgstr ""
+msgstr "Zeige alle %d"
 
 #: r2/controllers/front.py:333
 #, python-format
 msgid "show %d"
-msgstr ""
+msgstr "Zeige %d"
 
 #: r2/controllers/front.py:349
 msgid "create a reddit"
@@ -479,7 +479,7 @@ msgstr "Erstellen Sie ein reddit"
 
 #: r2/controllers/front.py:351 r2/templates/createsubreddit.html:49
 msgid "create a community"
-msgstr ""
+msgstr "Erstelle eine Community"
 
 #: r2/controllers/front.py:529 r2/lib/menus.py:142
 msgid "awards"
@@ -4691,39 +4691,39 @@ msgstr ""
 
 #: r2/templates/widgetdemopanel.html:182
 msgid "number of links to show"
-msgstr ""
+msgstr "Anzahl der Links, die gezeigt werden"
 
 #: r2/templates/widgetdemopanel.html:200
 msgid "remove css styling"
-msgstr ""
+msgstr "lösche das CSS-Styling"
 
 #: r2/templates/widgetdemopanel.html:202
 msgid "(the widget will inherit all styles from the page)"
-msgstr ""
+msgstr "(Das Widget wird alle styles übernehmen"
 
 #: r2/templates/widgetdemopanel.html:210
 msgid "enable in-widget voting"
-msgstr ""
+msgstr "erlaube das "in-widget-voting""
 
 #: r2/templates/widgetdemopanel.html:212
 msgid "(will slow down the rendering)"
-msgstr ""
+msgstr "(Wird das Rendering verlangsamen)"
 
 #: r2/templates/widgetdemopanel.html:221
 msgid "two columns"
-msgstr ""
+msgstr "Zwei Spalten"
 
 #: r2/templates/widgetdemopanel.html:228
 msgid "background color"
-msgstr ""
+msgstr "Hintergrundfarbe"
 
 #: r2/templates/widgetdemopanel.html:232
 msgid "(e.g., FF0000 = red)"
-msgstr ""
+msgstr "(z.B. FF0000 = Rot"
 
 #: r2/templates/widgetdemopanel.html:239
 msgid "border color"
-msgstr ""
+msgstr "Randfarbe"
 
 #: r2/templates/widgetdemopanel.html:249
 msgid "the code"
@@ -4733,8 +4733,7 @@ msgstr "Der Code"
 #, python-format
 msgid "add this into your HTML where you want the %(site)s links displayed"
 msgstr ""
-"Füge dies in deinen HTML-Code, in dem du die Links der %(site)s anzeigen "
-"willst"
+"Füge dies an der Stelle in deinem HTML ein, wo du die %(site)s angezeigt haben möchtest"
 
 #~ msgid "see? you don't really want to leave"
 #~ msgstr "Siehst Du? Du willst nicht wirklich weggehen"
@@ -4759,7 +4758,7 @@ msgstr ""
 #~ msgstr "Über uns"
 
 #~ msgid "manage your reddit"
-#~ msgstr "Verwalten Dein reddit"
+#~ msgstr "Verwalte Dein reddit"
 
 #~ msgid "millisecond"
 #~ msgid_plural "milliseconds"
