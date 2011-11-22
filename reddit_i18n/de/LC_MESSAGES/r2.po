@@ -244,7 +244,7 @@ msgstr "Dieses Element wurde gelöscht"
 
 #: r2/controllers/errors.py:42
 msgid "that password is unacceptable"
-msgstr "Dieses Passwort ist nicht akzeptierbar"
+msgstr "Dieses Passwort ist unzulässig"
 
 #: r2/controllers/errors.py:43
 msgid "invalid password"
@@ -955,7 +955,7 @@ msgstr "Über"
 
 #: r2/lib/menus.py:127
 msgid "edit subscriptions"
-msgstr "bearbeite Deine Abonnemente"
+msgstr "bearbeite Dein Abonnement"
 
 #: r2/lib/menus.py:128 r2/lib/pages/pages.py:1032
 #: r2/templates/createsubreddit.html:39
@@ -4699,7 +4699,7 @@ msgstr "lösche das CSS-Styling"
 
 #: r2/templates/widgetdemopanel.html:202
 msgid "(the widget will inherit all styles from the page)"
-msgstr "(Das Widget wird alle styles übernehmen"
+msgstr "(Das Widget wird alle Styles übernehmen)"
 
 #: r2/templates/widgetdemopanel.html:210
 msgid "enable in-widget voting"
