@@ -113,7 +113,7 @@ msgstr "Beansprucht!"
 
 #: r2/controllers/api.py:1658
 msgid "an email will be sent to that account's address shortly"
-msgstr "Eine Email wird schon bald an die Emailadresse dieses Accounts gesendet"
+msgstr "Eine E-Mail wird schon bald an die E-Mail-Adresse dieses Accounts gesendet"
 
 #: r2/controllers/api.py:1660
 msgid "try again tomorrow"
@@ -533,7 +533,7 @@ msgstr "Reddit Gold"
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
-msgstr "Netter Versuch"
+msgstr "Netter Versuch."
 
 #: r2/controllers/ipn.py:276
 msgid "the gold has been delivered!"
@@ -541,7 +541,7 @@ msgstr "Das Gold wurde ausgeliefert!"
 
 #: r2/controllers/ipn.py:449
 msgid "thanks for buying reddit gold!"
-msgstr "Danke, dass du Reddit Gold gekauft hast"
+msgstr "Danke, dass du Reddit Gold gekauft hast!"
 
 #: r2/controllers/ipn.py:459 r2/templates/thanks.html:32
 msgid "thanks for buying creddits!"
@@ -692,7 +692,7 @@ msgstr "Bitte gib eine gültige Stadt an"
 
 #: r2/controllers/validator/validator.py:1484
 msgid "please provide your state"
-msgstr "Bitte gib deinen Bundesstaat an"
+msgstr "Bitte gib Dein Bundesland an"
 
 #: r2/controllers/validator/validator.py:1486
 msgid "please provide your zip or post code"
@@ -955,7 +955,7 @@ msgstr "Über"
 
 #: r2/lib/menus.py:127
 msgid "edit subscriptions"
-msgstr "bearbeite Dein Abonnement"
+msgstr "Bearbeite Deine Abonnements"
 
 #: r2/lib/menus.py:128 r2/lib/pages/pages.py:1032
 #: r2/templates/createsubreddit.html:39
@@ -1519,7 +1519,7 @@ msgstr ""
 
 #: r2/lib/strings.py:135
 msgid "we're going to need to verify your email address for you to proceed."
-msgstr ""
+msgstr "Wir müssen Deine E-Mail verifizieren, damit Du weiterfahren kannst."
 
 #: r2/lib/strings.py:136
 msgid ""
